@@ -1,7 +1,25 @@
-print("My age :" + str("19"))
-print(123 + 789)# is use for addition
-print(4 -2)     # is used for subtraction
-print(2 * 6)    # is used for multiplication
-print( 4 / 2)   # is used for division
-print(4 // 2)   # // is used for remove the decimal intergers
-print(2 ** 4 )  # ** is used as power
+# TypeError
+# len(123)
+
+# No TypeError
+len("Hello")
+
+# Type Checking
+print(type("abc"))
+print(type(123))
+print(type(3.14))
+print(type(True))
+
+# Type Conversion
+str()
+int()
+float()
+bool()
+
+name_of_the_user = input("Enter your name")
+length_of_name = len(name_of_the_user)
+
+print(type("Number of letters in your name: "))  # str
+print(type(length_of_name))  # int
+
+print("Number of letters in your name: " + str(length_of_name))

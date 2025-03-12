@@ -1,12 +1,18 @@
 # Subscripting
-print("Hello"[4])
+# print("Hello"[0])
+
+# String
+# print("123" + "345")
 
 # Integer = Whole number
-print(123 + 345)
+# print(123 + 345)
 
-# Float = floating point Number
-print(3.145)
+# Large Integers
+# print(123_456_789)
 
-#Boolean
+# Float = Floating Point Number
+# print(3.14159)
+
+# Boolean
 print(True)
 print(False)

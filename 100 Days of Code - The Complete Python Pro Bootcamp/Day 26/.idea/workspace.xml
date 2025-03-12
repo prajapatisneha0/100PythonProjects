@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3958971d-5669-4c6d-a579-ff8d2caa5529" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Car/.idea/car.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Car/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Car/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Car/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Car/Car.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Car/car_manager.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Car/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Car/player.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Car/scoreboard.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 16/.idea/Day 16.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 17/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 17/.idea/Day 17.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 17/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 17/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 17/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 17/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 18/.idea/Day 18.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 19/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 19/.idea/Day 19.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 20/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 20/.idea/Day 20.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 22/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 22/.idea/Day 22.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 22/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 22/ball.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 22/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 22/paddle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 22/scoreboard.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 23/.idea/Day 23.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 24/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 24/.idea/Day 24.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 24/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 24/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 24/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 24/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 25/.idea/Day 25.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 25/2018_Central_Park_Squirrel_Census_-_Squirrel_Data_20250129.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Day 26.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 27/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 27/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 27/converter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 27/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 30/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PythonProject/India-game/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PythonProject/India-game/.idea/India-game.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PythonProject/India-game/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PythonProject/India-game/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PythonProject/India-game/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PythonProject/India-game/india_state.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PythonProject/India-game/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PythonProject/India-game/states_data.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/.author_contents_storage_db" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/.author_contents_storage_db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/.author_contents_storage_db-shm" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/.author_contents_storage_db-shm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/.author_contents_storage_db-wal" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/.author_contents_storage_db-wal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/100 Days of Code - The Complete Python Pro Bootcamp.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/100 Days of Code - The Complete Python Pro Bootcamp.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/frameworkLessonHistory/storage.storageData" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/frameworkLessonHistory/storage.storageData" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/frameworkLessonHistory/storage.storageRecordIndex" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/frameworkLessonHistory/storage.storageRecordIndex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/inspectionProfiles/Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/inspectionProfiles/Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day 1/Band Name Generator Project/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../Day 1/Band Name Generator Project/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day 1/task/task.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Day 1/task/task.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day 10/Calculator Project/Calculator Project 10.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day 10/Calculator Project/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../Day 10/Calculator Project/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day 10/Dcostrings/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day 10/Dcostrings/task-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day 10/Dcostrings/task-remote-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day 10/Dcostrings/task.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day 10/Dcostrings/task.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day 10/Functions with Outputs/task.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Day 10/Functions with Outputs/task.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day 10/Multiple Return Values/task.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Day 10/Multiple Return Values/task.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day 10/lesson-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../Day 10/lesson-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day 11/task/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Day 11/task/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day 12/Block Scope/task.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Day 12/Block Scope/task.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day 12/Global Constants/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Day 12/Global Constants/solution.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day 12/Global Vars/task.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Day 12/Global Vars/task.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day 12/Namespaces and Scope/task.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Day 12/Namespaces and Scope/task.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day 12/Number Guessing Project/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Day 12/Number Guessing Project/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day 13/Describe the Problem/task.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Day 13/Describe the Problem/task.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day 13/Fix the Errors/task.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Day 13/Fix the Errors/task.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day 13/Play Computer/task.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Day 13/Play Computer/task.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day 13/Use Print/task.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Day 13/Use Print/task.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day 14/Higher or Lower Project/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Day 14/Higher or Lower Project/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day 14/Higher or Lower Project/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Day 14/Higher or Lower Project/solution.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day 15/Coffee Machine Project/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Day 15/Coffee Machine Project/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day 2/Data Types/task.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Day 2/Data Types/task.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day 2/Mathematical Operations/task.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Day 2/Mathematical Operations/task.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day 2/Number Manipulation/task.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Day 2/Number Manipulation/task.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day 2/Tip Calculator Project/Project 2 TIP CALCULATOR.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day 2/Tip Calculator Project/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../Day 2/Tip Calculator Project/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day 2/Tip Calculator Project/task.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Day 2/Tip Calculator Project/task.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day 2/Type Error, Checking and Conversion/task.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Day 2/Type Error, Checking and Conversion/task.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day 3/If Else/task.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Day 3/If Else/task.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day 3/Logical Operators/task.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Day 3/Logical Operators/task.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day 3/Modulo/task.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Day 3/Modulo/task.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day 3/Multiple Ifs/task.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Day 3/Multiple Ifs/task.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day 3/Nesting and Elif/task.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Day 3/Nesting and Elif/task.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day 3/Python Pizza/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../Day 3/Python Pizza/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day 3/Python Pizza/task.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Day 3/Python Pizza/task.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day 3/Treasure Island Project/Project 3 Treasure land Project.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day 3/Treasure Island Project/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../Day 3/Treasure Island Project/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day 3/Treasure Island Project/task.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Day 3/Treasure Island Project/task.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day 4/Banker Roulette/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../Day 4/Banker Roulette/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day 4/Banker Roulette/task.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Day 4/Banker Roulette/task.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day 4/IndexError/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../Day 4/IndexError/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day 4/IndexError/task.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Day 4/IndexError/task.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day 4/Lists/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../Day 4/Lists/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day 4/Lists/task.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Day 4/Lists/task.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day 4/Random Module/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../Day 4/Random Module/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day 4/Random Module/task.md" beforeDir="false" afterPath="$PROJECT_DIR$/../Day 4/Random Module/task.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day 4/Random Module/task.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Day 4/Random Module/task.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day 4/Rock Paper Scissors/Project 4 Rock Paper Scissors.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day 4/Rock Paper Scissors/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../Day 4/Rock Paper Scissors/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day 4/Rock Paper Scissors/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../Day 4/Rock Paper Scissors/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day 4/Rock Paper Scissors/task.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Day 4/Rock Paper Scissors/task.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day 5/For Loops with Range/task.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Day 5/For Loops with Range/task.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day 5/For Loops/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../Day 5/For Loops/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day 5/For Loops/task.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Day 5/For Loops/task.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day 5/Highest Score/task.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Day 5/Highest Score/task.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day 5/Password Generator Project/Project 5 Password Generator.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day 5/Password Generator Project/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../Day 5/Password Generator Project/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day 6/Functions/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../Day 6/Functions/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day 6/Functions/task.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Day 6/Functions/task.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day 7/Step 5/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../Day 7/Step 5/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day 7/task/hangman game.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day 8/Caesar Cipher 1/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Day 8/Caesar Cipher 1/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day 8/Caesar Cipher 2/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Day 8/Caesar Cipher 2/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day 8/Caesar Cipher 3/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Day 8/Caesar Cipher 3/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day 8/Functions with Inputs/task.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Day 8/Functions with Inputs/task.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day 8/Positional vs Keyword Arguments/task.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Day 8/Positional vs Keyword Arguments/task.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day 9/Blind Auction Project/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Day 9/Blind Auction Project/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day 9/Dictionaries/task.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Day 9/Dictionaries/task.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day 9/Nested Lists and Dictionaries/task.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Day 9/Nested Lists and Dictionaries/task.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day-17/.idea/Day-17.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day-19/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day-19/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Day 19/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day-19/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Day 16/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day-20/.idea/Day-20.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day-20/food.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Day 18/task.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day-20/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Day 18/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day-20/scoreboard.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Day 20/data.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day-20/snake.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Day 20/food.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day-21/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day-21/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Day 20/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day-21/ball.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Day 20/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day-21/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Day 19/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day-21/paddle.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Day 20/snake.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day-21/scoreboard.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Day 20/scoreboard.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../course-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../course-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../course-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../course-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day-18/.idea/day-18.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day-18/.idea/hirst-painting.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day-18/hirst-painting/.idea/hirst-painting.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../100 Days of Code - The Complete Python Pro Bootcamp1/Day 7/task/hangman_art.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../100 Days of Code - The Complete Python Pro Bootcamp1/Day 7/task/hangman_words.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PythonProject/PythonProject/PythonProject/PythonProject/hirst-painting/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PythonProject/PythonProject/PythonProject/day-18/main.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2tOznSPdX4eE33ro5bxNnzVbRzd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.appearance&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-495700d161d3-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.22562.220" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3958971d-5669-4c6d-a579-ff8d2caa5529" name="Changes" comment="" />
+      <created>1740238075314</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1740238075314</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.csv" />
+  </component>
+</project>
