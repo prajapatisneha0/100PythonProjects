@@ -42,18 +42,19 @@ def morse_to_text(morse_code):
     for word in words:
         letters = word.split(" ")
         for letter in letters:
-            text = MORSE_TO_TEXT.get(letter,"")
-            text += " "
+            text += MORSE_TO_TEXT.get(letter,"")
+        text += " "
     return text.strip()
 
 
 if __name__ == "__main__":
-    user = int(input("Choose 1. Text to morse converter\n"
-                 "2. Morse to text converter: "))
-    if user == 1:
-        user_input = input("Enter text to convert into Morse Code: ")
-        result = text_to_morse(user_input)
-        print(f"Morse Code: {result}")
-    else:
-        code = input("Enter Morse Code to convert into Text: ")
-        print(f"Text: " ,morse_to_text(code))
+    while(1):
+        user = int(input("Choose 1. Text to morse converter\n"
+                     "2. Morse to text converter: "))
+        if user == 1:
+            user_input = input("Enter text to convert into Morse Code: ")
+            result = text_to_morse(user_input)
+            print(f"Morse Code: {result}")
+        else:
+            code = input("Enter Morse Code to convert into Text: ")
+            print(f"Text: " ,morse_to_text(code))
