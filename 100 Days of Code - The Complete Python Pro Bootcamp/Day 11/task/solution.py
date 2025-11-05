@@ -1,13 +1,11 @@
 import random
 from art import logo
 
-
 def deal_card():
     """Returns a random card from the deck"""
     cards = [11, 2, 3, 4, 5, 6, 7, 8, 9, 10, 10, 10, 10]
     card = random.choice(cards)
     return card
-
 
 def calculate_score(cards):
     """Take a list of cards and return the score calculated from the cards"""
@@ -19,7 +17,6 @@ def calculate_score(cards):
         cards.append(1)
 
     return sum(cards)
-
 
 def compare(u_score, c_score):
     """Compares the user score u_score against the computer score c_score."""
@@ -37,7 +34,6 @@ def compare(u_score, c_score):
         return "You win 😃"
     else:
         return "You lose 😤"
-
 
 def play_game():
     print(logo)

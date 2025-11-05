@@ -12,11 +12,15 @@ def format_data(account):
 
 
 def check_answer(user_guess, a_followers, b_followers):
-    """Take a user's guess and the follower counts and returns if they got it right."""
+    """Take a user's guess and the follower counts and returns if they got it right"""
     if a_followers > b_followers:
-        return user_guess == "a"
+        correct_choice = "a"
+        if guess == correct_choice:
+            return True  # The player was right
+        else:
+            return False  # The player was wrong
     else:
-        return user_guess == "b"
+        correct_choice = "b"
 
 
 print(logo)

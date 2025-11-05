@@ -13,7 +13,7 @@ print(round(bmi))
 print(round(bmi, 2))
 
 
-## Accumulate
+# Accumulate
 score = 0
 
 # User scores a point

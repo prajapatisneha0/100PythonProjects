@@ -3,7 +3,6 @@ def my_function():
         if i == 20:
             print("You got it")
 
-
 my_function()
 
 # Describe the Problem - Write your answers as comments:

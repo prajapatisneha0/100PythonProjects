@@ -8,3 +8,5 @@ def create_enemy():
         new_enemy = enemies[0]
 
     print(new_enemy)
+
+
